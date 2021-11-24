@@ -3,5 +3,5 @@
 <p>What this will become is still up in the air, but it will be legendary.</p>
 
 ## Those Who Bring Us The NOPS of Our Lord and Savior
-![alt text]("https://github.com/CS-Cafe/dou.py/blob/main/images/lordsWord.png?raw=true")
+![LordsWord](https://github.com/CS-Cafe/dou.py/blob/main/images/lordsWord.png?raw=true)
  
